@@ -1,0 +1,10 @@
+torch>=2.2
+transformers>=4.44
+pandas>=2.2
+numpy>=1.26
+tqdm>=4.66
+scikit-learn>=1.4
+rouge-score>=0.1.2
+nltk>=3.9
+emoji>=2.12
+pyyaml>=6.0.1
