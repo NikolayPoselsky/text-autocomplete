@@ -12,6 +12,6 @@
 LSTM	0.21	2 эпохи	
 GPT2	0.043	предобученная
 
-В файлах LSTM_train_and_rouge.ipynb - обучение и получение ROUGE для модели LSTM, в файле transformer_rouge.ipynb - вычисляется ROUGE для модели GPT2
+В файлах solution.ipynb - обучение и получение ROUGE для модели LSTM, в файле transformer_rouge.ipynb - вычисляется ROUGE для модели GPT2
 
 
